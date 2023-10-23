@@ -33,6 +33,10 @@ npm install --global @subsquid/cli@latest
 sqd init my-snapshot-squid -t https://github.com/subsquid-quests/snapshot-squid
 cd my-snapshot-squid
 ```
+## Add Keys
+<img width="197" alt="image" src="https://github.com/xxcode2/Subsquid/assets/137141202/6000089a-7b18-40e7-8f29-05ad5284624b">
+
+
 ## 
 ```
 sqd up
