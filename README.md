@@ -37,7 +37,7 @@ cd my-snapshot-squid
 <img width="197" alt="image" src="https://github.com/xxcode2/Subsquid/assets/137141202/6000089a-7b18-40e7-8f29-05ad5284624b">
 
 
-## 
+## Start your Squid
 ```
 sqd up
 ```
